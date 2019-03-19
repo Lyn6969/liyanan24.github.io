@@ -62,8 +62,8 @@ kramdown:
 #Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 66d730407598c788c2d3                        #生成的clientID
-  clientSecret: 78752915b74fbd31c72d283c5c72570412619de7    #生成的clientSecret
+  clientID: 247f26d954caa632ae72                        #生成的clientID
+  clientSecret: df9cedd3d407f9bb0f8c15c028c09e5e13e7f677    #生成的clientSecret
   repo: liyanan24.github.io    #仓库名称
   owner: liyanan24    #github用户名
   admin: liyanan24
