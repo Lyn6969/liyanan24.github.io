@@ -13,7 +13,19 @@ tags:
 
 # VIM入门手册
 
-[TOC]
+**Vim入门手册**
+
+​	[安装Vim插件](#安装Vinm插件)
+
+​	[模式切换](#模式切换)
+
+​	[Vim定位指令](#Vim定位指令)
+
+​		[光标上下左右](#光标上下左右)
+
+​		
+
+
 
 ## 安装Vim插件
 
@@ -21,9 +33,7 @@ tags:
 
 > 推荐：关闭vim扩展里的`useCtrlKeys`，在`setting.json`中添加配置`"vim.useCtrlKeys":false`。
 
-## 基本操作
-
-### 模式切换
+## 模式切换
 
 在VSCode中打开文件时，文件默认状态为vim下的**Normal**模式，输入`i`，从**Normal**模式切换至**Insert**模式，此时就可以正常输入文本了，`ESC`可以返回**Normal**模式。
 
